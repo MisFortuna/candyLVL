@@ -1,0 +1,752 @@
+[
+  {
+    "level": 1,
+    "questions": [
+      {
+        "clue": "I am a sweet treat made from sugar and can be hard or chewy, often found in different flavors.",
+        "answer": "CANDY",
+        "scrambled": "DANCY"
+      },
+      {
+        "clue": "I am a sweet made from cocoa and sugar, often brown and can be solid or liquid.",
+        "answer": "CHOCOLATE",
+        "scrambled": "OOCHTLCAE"
+      },
+      {
+        "clue": "I am a frozen dessert made from dairy products, often enjoyed in cones or cups.",
+        "answer": "ICE CREAM",
+        "scrambled": "CREEAMIC"
+      },
+      {
+        "clue": "I am a sweet, fried dough pastry, often ring-shaped and topped with glaze or sugar.",
+        "answer": "DONUT",
+        "scrambled": "NODUT"
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "questions": [
+      {
+        "clue": "I am a small cake, often decorated with frosting and sprinkles.",
+        "answer": "CUPCAKE",
+        "scrambled": "PUKCAAEC"
+      },
+      {
+        "clue": "I am a chewy gummy treat in the shape of a bear.",
+        "answer": "GUMMYBEAR",
+        "scrambled": "BEARYGUMM"
+      },
+      {
+        "clue": "I am a long, colorful sweet on a stick, often enjoyed by kids.",
+        "answer": "LOLLIPOP",
+        "scrambled": "POLLOILP"
+      },
+      {
+        "clue": "I am a delicate French pastry made with almond and egg whites.",
+        "answer": "MACARON",
+        "scrambled": "RONACAM"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "questions": [
+      {
+        "clue": "I am a soft, sweet confection often roasted or used in s'mores.",
+        "answer": "MARSHMALLOW",
+        "scrambled": "MALSHMOWERA"
+      },
+      {
+        "clue": "I am an Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone.",
+        "answer": "TIRAMISU",
+        "scrambled": "MURISITA"
+      },
+      {
+        "clue": "I am a dense, rich square baked with chocolate, often enjoyed with coffee.",
+        "answer": "BROWNIE",
+        "scrambled": "BOWERIN"
+      },
+      {
+        "clue": "I am a sweet made by heating sugar until it melts and turns golden.",
+        "answer": "CARAMEL",
+        "scrambled": "LAMCARE"
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "questions": [
+      {
+        "clue": "I am a baked good that is often soft and comes in various shapes and sizes.",
+        "answer": "COOKIE",
+        "scrambled": "KOOKIEC"
+      },
+      {
+        "clue": "I am a variant of a doughnut, often spelled differently.",
+        "answer": "DOUGHNUT",
+        "scrambled": "NUTHGOU"
+      },
+      {
+        "clue": "I am a rich, creamy sweet made with sugar and butter.",
+        "answer": "FUDGE",
+        "scrambled": "GUFED"
+      },
+      {
+        "clue": "I am a sweet, gelatinous dessert made from fruit juice and sugar.",
+        "answer": "JELLY",
+        "scrambled": "LEJLY"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "questions": [
+      {
+        "clue": "I am a coffee-flavored sweet drink, often topped with whipped cream.",
+        "answer": "MOCHA",
+        "scrambled": "CAMOH"
+      },
+      {
+        "clue": "I am a small, sweet baked good, often eaten for breakfast.",
+        "answer": "MUFFIN",
+        "scrambled": "FUNMIF"
+      },
+      {
+        "clue": "I am a spread made from roasted peanuts and sugar or honey.",
+        "answer": "PEANUTBUTTER",
+        "scrambled": "BUTTERPEANUT"
+      },
+      {
+        "clue": "I am a sweet substance used in baking and cooking, often granulated.",
+        "answer": "SUGAR",
+        "scrambled": "GARUS"
+      }
+    ]
+  },
+  {
+    "level": 6,
+    "questions": [
+      {
+        "clue": "I am a taste sensation characterized by sweetness.",
+        "answer": "SWEET",
+        "scrambled": "TEWES"
+      },
+      {
+        "clue": "I am a black or red sweet treat, often chewy and flavored with anise.",
+        "answer": "LICORICE",
+        "scrambled": "RICOLICE"
+      },
+      {
+        "clue": "I am a type of cookie shaped like a ginger, often eaten during holidays.",
+        "answer": "GINGERBREAD",
+        "scrambled": "BREADGINGER"
+      },
+      {
+        "clue": "I am a flat, round breakfast item made from batter and cooked on a griddle.",
+        "answer": "PANCAKE",
+        "scrambled": "CAPANEK"
+      }
+    ]
+  },
+  {
+    "level": 7,
+    "questions": [
+      {
+        "clue": "I am a creamy dessert that is often set with sugar and flavorings.",
+        "answer": "PUDDING",
+        "scrambled": "DUPDING"
+      },
+      {
+        "clue": "I am a chocolate and peanut-based candy bar.",
+        "answer": "SNICKERS",
+        "scrambled": "CENIKERS"
+      },
+      {
+        "clue": "I am a small, butter-flavored flower-shaped candy.",
+        "answer": "BUTTERCUP",
+        "scrambled": "CUPBUTTER"
+      },
+      {
+        "clue": "I am a type of sweet made from butter and brown sugar.",
+        "answer": "BUTTERSCOTCH",
+        "scrambled": "SCOTCHBUTTER"
+      }
+    ]
+  },
+  {
+    "level": 8,
+    "questions": [
+      {
+        "clue": "I am a cream-filled pastry topped with chocolate or nuts.",
+        "answer": "ECLAIR",
+        "scrambled": "CLIARE"
+      },
+      {
+        "clue": "I am a root used in baking and candy making, often associated with a spicy flavor.",
+        "answer": "GINGER",
+        "scrambled": "RINGEG"
+      },
+      {
+        "clue": "I am a hot beverage made with cocoa powder, milk, and sugar.",
+        "answer": "HOTCHOCOLATE",
+        "scrambled": "COCHOLATEHOT"
+      },
+      {
+        "clue": "I am a frozen sweet treat on a stick, often fruity.",
+        "answer": "ICEPOP",
+        "scrambled": "POCIPE"
+      }
+    ]
+  },
+  {
+    "level": 9,
+    "questions": [
+      {
+        "clue": "I am a fruit preserve made from citrus fruit, often spread on toast.",
+        "answer": "MARMALADE",
+        "scrambled": "ALMARMEDA"
+      },
+      {
+        "clue": "I am a baked dish made of dough and filled with sweet or savory ingredients.",
+        "answer": "PASTRY",
+        "scrambled": "TRAYSPE"
+      },
+      {
+        "clue": "I am a twisted baked snack that is salty and often dipped in chocolate.",
+        "answer": "PRETZEL",
+        "scrambled": "ZELPERT"
+      },
+      {
+        "clue": "I am a frozen dessert made with fruit puree and sugar, similar to sorbet.",
+        "answer": "SORBET",
+        "scrambled": "BESTOR"
+      }
+    ]
+  },
+  {
+    "level": 10,
+    "questions": [
+      {
+        "clue": "I am a light, fluffy baked dish that rises from beaten egg whites and flour.",
+        "answer": "SOUFFLE",
+        "scrambled": "FELSUOF"
+      },
+      {
+        "clue": "I am a carbonated sweet beverage, often flavored.",
+        "answer": "SODA",
+        "scrambled": "ADOS"
+      },
+      {
+        "clue": "I am a chewy sweet made by boiling sugar and butter, often broken into pieces.",
+        "answer": "TOFFEE",
+        "scrambled": "FETOFE"
+      },
+      {
+        "clue": "I am a rich, chocolate confection often coated in cocoa or nuts.",
+        "answer": "TRUFFLE",
+        "scrambled": "FURTLEU"
+      }
+    ]
+  },
+  {
+    "level": 11,
+    "questions": [
+      {
+        "clue": "I am a flavor often associated with sweets, extracted from orchids.",
+        "answer": "VANILLA",
+        "scrambled": "NILVAA"
+      },
+      {
+        "clue": "I am a thin, crispy wafer often layered with cream or chocolate.",
+        "answer": "WAFER",
+        "scrambled": "FAWER"
+      },
+      {
+        "clue": "I am a creamy dairy dessert, sometimes sweetened and flavored.",
+        "answer": "YOGURT",
+        "scrambled": "GUYTRO"
+      },
+      {
+        "clue": "I am a cake with alternating layers of light and dark batter, resembling a zebra pattern.",
+        "answer": "ZEBRACAKE",
+        "scrambled": "BAZERECAKE"
+      }
+    ]
+  },
+  {
+    "level": 12,
+    "questions": [
+      {
+        "clue": "I am a sweet, sticky treat made by dipping nuts in chocolate.",
+        "answer": "CARAMELAPPLE",
+        "scrambled": "APPLECARAMEL"
+      },
+      {
+        "clue": "I am a sweet paste made from almonds and sugar, often used in desserts.",
+        "answer": "MARZIPAN",
+        "scrambled": "PANMARZII"
+      },
+      {
+        "clue": "I am a type of sweet, buttery cookie, often enjoyed with tea.",
+        "answer": "SHORTBREAD",
+        "scrambled": "BREADSHORT"
+      },
+      {
+        "clue": "I am small, sweet, chewy candies often used to decorate desserts.",
+        "answer": "TWEETS",
+        "scrambled": "STWEET"
+      }
+    ]
+  },
+  {
+    "level": 13,
+    "questions": [
+      {
+        "clue": "I am a sweet topping whipped from cream, often added to desserts.",
+        "answer": "WHIPPEDCREAM",
+        "scrambled": "CREAMWHIPPED"
+      },
+      {
+        "clue": "I am a cane-shaped candy, often red and white striped, popular during holidays.",
+        "answer": "CANDYCANE",
+        "scrambled": "CANEYADNC"
+      },
+      {
+        "clue": "I am a chewy caramel candy with peanuts, similar to a Snickers bar.",
+        "answer": "BUTTERSCOCH",
+        "scrambled": "SCOTCHBUTTER"
+      },
+      {
+        "clue": "I am a small, hard candy often used in baking or for breath freshening.",
+        "answer": "MINT",
+        "scrambled": "TNIM"
+      }
+    ]
+  },
+  {
+    "level": 14,
+    "questions": [
+      {
+        "clue": "I am a sweet, sticky topping often drizzled on pancakes or ice cream.",
+        "answer": "MAPLE SYRUP",
+        "scrambled": "SYRUPMAPLE"
+      },
+      {
+        "clue": "I am a small, round, soft candy often containing fillings like fruit or cream.",
+        "answer": "BONBON",
+        "scrambled": "NONBOB"
+      },
+      {
+        "clue": "I am a frozen treat made from flavored ice, often eaten in summer.",
+        "answer": "ICE POP",
+        "scrambled": "POCIPE"
+      },
+      {
+        "clue": "I am a sweet, fizzy candy that pops in your mouth.",
+        "answer": "POP ROCKS",
+        "scrambled": "ROCKSPOP"
+      }
+    ]
+  },
+  {
+    "level": 15,
+    "questions": [
+      {
+        "clue": "I am a creamy, frozen dessert often flavored with fruit or chocolate.",
+        "answer": "GELATO",
+        "scrambled": "TAGOLE"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed on special occasions.",
+        "answer": "CHAMPAGNE",
+        "scrambled": "PAGHMCANE"
+      },
+      {
+        "clue": "I am a chewy caramel candy with nuts, similar to a Snickers bar.",
+        "answer": "SNICKERS",
+        "scrambled": "CENIKERS"
+      },
+      {
+        "clue": "I am a rich, chocolate confection often coated in cocoa or nuts.",
+        "answer": "TRUFFLE",
+        "scrambled": "FURTLEU"
+      }
+    ]
+  },
+  {
+    "level": 16,
+    "questions": [
+      {
+        "clue": "I am a sweet, sticky treat made from caramelized sugar.",
+        "answer": "TOFFEE",
+        "scrambled": "FETOFE"
+      },
+      {
+        "clue": "I am a sweet, creamy spread made from sugar and milk.",
+        "answer": "CARAMEL",
+        "scrambled": "LAMCARE"
+      },
+      {
+        "clue": "I am a sweet, crunchy treat often used as a topping on ice cream.",
+        "answer": "SPRINKLES",
+        "scrambled": "KINLSPRES"
+      },
+      {
+        "clue": "I am a sweet, creamy topping often used on desserts.",
+        "answer": "WHIPPED CREAM",
+        "scrambled": "CREAMWHIPPED"
+      }
+    ]
+  },
+  {
+    "level": 17,
+    "questions": [
+      {
+        "clue": "I am a sweet, nutty candy bar with caramel and chocolate.",
+        "answer": "BUTTERFINGER",
+        "scrambled": "FINGERBUTTER"
+      },
+      {
+        "clue": "I am a creamy, sweet spread often used on toast.",
+        "answer": "HONEY",
+        "scrambled": "EYHNO"
+      },
+      {
+        "clue": "I am a sweet, chewy candy often shaped like a bear.",
+        "answer": "GUMMY WORM",
+        "scrambled": "WORMGUMMY"
+      },
+      {
+        "clue": "I am a chewy, fruit-flavored candy often shaped like a bear.",
+        "answer": "GINGY BEAR",
+        "scrambled": "BEARYGUMM"
+      }
+    ]
+  },
+  {
+    "level": 18,
+    "questions": [
+      {
+        "clue": "I am a sweet, dry baked good often served with coffee or tea.",
+        "answer": "BISCUIT",
+        "scrambled": "CUBISTI"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed with ice.",
+        "answer": "FRAPPE",
+        "scrambled": "PEFRAP"
+      },
+      {
+        "clue": "I am a frozen dessert similar to ice cream but made with milk instead of cream.",
+        "answer": "SORBET",
+        "scrambled": "BESTOR"
+      },
+      {
+        "clue": "I am a small, round sweet made with fruit or chocolate filling.",
+        "answer": "BOMBOON",
+        "scrambled": "BONBOOM"
+      }
+    ]
+  },
+  {
+    "level": 19,
+    "questions": [
+      {
+        "clue": "I am a traditional sweet often shaped like a star and covered in sugar.",
+        "answer": "CANDY STAR",
+        "scrambled": "STARCANDY"
+      },
+      {
+        "clue": "I am a soft, creamy candy often flavored with mint or chocolate.",
+        "answer": "FUDGE",
+        "scrambled": "GUFED"
+      },
+      {
+        "clue": "I am a sweet, baked good often topped with icing and decorations.",
+        "answer": "CUPCAKE",
+        "scrambled": "PUKCAAEC"
+      },
+      {
+        "clue": "I am a sweet, layered dessert often chilled and served in glasses.",
+        "answer": "PARFAIT",
+        "scrambled": "FAPRTAI"
+      }
+    ]
+  },
+  {
+    "level": 20,
+    "questions": [
+      {
+        "clue": "I am a sweet, crispy treat often used to decorate ice cream.",
+        "answer": "WAFER",
+        "scrambled": "FAWER"
+      },
+      {
+        "clue": "I am a sweet, nutty spread often used in sandwiches.",
+        "answer": "NUTELLA",
+        "scrambled": "ELATUN"
+      },
+      {
+        "clue": "I am a sweet, chewy candy made with fruit juice and sugar.",
+        "answer": "FRUIT CHEW",
+        "scrambled": "CHEWFRUIT"
+      },
+      {
+        "clue": "I am a sweet, fizzy candy that pops in your mouth.",
+        "answer": "POP ROCKS",
+        "scrambled": "ROCKSPOP"
+      }
+    ]
+  },
+  {
+    "level": 21,
+    "questions": [
+      {
+        "clue": "I am a sweet, chewy candy made with nuts and caramel.",
+        "answer": "RESEES PEANUT BUTTER CUPS",
+        "scrambled": "CUPSPEANUTBUTTERREESE"
+      },
+      {
+        "clue": "I am a creamy, sweet dessert often topped with caramel or chocolate.",
+        "answer": "PANNA COTTA",
+        "scrambled": "COTTPANNA"
+      },
+      {
+        "clue": "I am a sweet, frothy drink made with milk, sugar, and ice.",
+        "answer": "MILKSHAKE",
+        "scrambled": "SHAKEMILK"
+      },
+      {
+        "clue": "I am a sweet treat made by dipping nuts in chocolate.",
+        "answer": "CHOCOLATE COVERED NUTS",
+        "scrambled": "COVEREDCHOCOLATENUTS"
+      }
+    ]
+  },
+  {
+    "level": 22,
+    "questions": [
+      {
+        "clue": "I am a sweet, frothy drink made with milk, sugar, and ice.",
+        "answer": "MILKSHAKE",
+        "scrambled": "SHAKEMILK"
+      },
+      {
+        "clue": "I am a sweet, frothy drink made with milk, sugar, and ice.",
+        "answer": "MILKSHAKE",
+        "scrambled": "SHAKEMILK"
+      },
+      {
+        "clue": "I am a sweet, frothy drink made with milk, sugar, and ice.",
+        "answer": "MILKSHAKE",
+        "scrambled": "SHAKEMILK"
+      },
+      {
+        "clue": "I am a sweet, frothy drink made with milk, sugar, and ice.",
+        "answer": "MILKSHAKE",
+        "scrambled": "SHAKEMILK"
+      }
+    ]
+  },
+  {
+    "level": 23,
+    "questions": [
+      {
+        "clue": "I am a sweet, layered pastry often filled with cream or fruit.",
+        "answer": "NAPOLEON",
+        "scrambled": "PENOPLEA"
+      },
+      {
+        "clue": "I am a small, colorful candy often used to decorate cakes and cupcakes.",
+        "answer": "SPRINKLES",
+        "scrambled": "KINLSPRES"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed with ice.",
+        "answer": "SODA",
+        "scrambled": "ADOS"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed on special occasions.",
+        "answer": "CHAMPAGNE",
+        "scrambled": "PAGHMCANE"
+      }
+    ]
+  },
+  {
+    "level": 24,
+    "questions": [
+      {
+        "clue": "I am a sweet, creamy spread made from sugar and milk.",
+        "answer": "CARAMEL",
+        "scrambled": "LAMCARE"
+      },
+      {
+        "clue": "I am a sweet, nutty spread often used in sandwiches.",
+        "answer": "NUTELLA",
+        "scrambled": "ELATUN"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed with ice.",
+        "answer": "FRAPPE",
+        "scrambled": "PEFRAP"
+      },
+      {
+        "clue": "I am a sweet, creamy spread often used on toast.",
+        "answer": "HONEY",
+        "scrambled": "EYHNO"
+      }
+    ]
+  },
+  {
+    "level": 25,
+    "questions": [
+      {
+        "clue": "I am a sweet, fizzy candy that pops in your mouth.",
+        "answer": "POP ROCKS",
+        "scrambled": "ROCKSPOP"
+      },
+      {
+        "clue": "I am a sweet, chewy candy made with fruit juice and sugar.",
+        "answer": "FRUIT CHEW",
+        "scrambled": "CHEWFRUIT"
+      },
+      {
+        "clue": "I am a sweet, fizzy candy that pops in your mouth.",
+        "answer": "POP ROCKS",
+        "scrambled": "ROCKSPOP"
+      },
+      {
+        "clue": "I am a sweet, fizzy candy that pops in your mouth.",
+        "answer": "POP ROCKS",
+        "scrambled": "ROCKSPOP"
+      }
+    ]
+  },
+  {
+    "level": 26,
+    "questions": [
+      {
+        "clue": "I am a sweet, chewy candy made with nuts and caramel.",
+        "answer": "RESEES PEANUT BUTTER CUPS",
+        "scrambled": "CUPSPEANUTBUTTERREESE"
+      },
+      {
+        "clue": "I am a creamy, sweet dessert often topped with caramel or chocolate.",
+        "answer": "PANNA COTTA",
+        "scrambled": "COTTPANNA"
+      },
+      {
+        "clue": "I am a sweet, chewy candy made with nuts and caramel.",
+        "answer": "RESEES PEANUT BUTTER CUPS",
+        "scrambled": "CUPSPEANUTBUTTERREESE"
+      },
+      {
+        "clue": "I am a creamy, sweet spread often used on toast.",
+        "answer": "HONEY",
+        "scrambled": "EYHNO"
+      }
+    ]
+  },
+  {
+    "level": 27,
+    "questions": [
+      {
+        "clue": "I am a sweet, fizzy candy that pops in your mouth.",
+        "answer": "POP ROCKS",
+        "scrambled": "ROCKSPOP"
+      },
+      {
+        "clue": "I am a sweet, creamy spread made from sugar and milk.",
+        "answer": "CARAMEL",
+        "scrambled": "LAMCARE"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed on special occasions.",
+        "answer": "CHAMPAGNE",
+        "scrambled": "PAGHMCANE"
+      },
+      {
+        "clue": "I am a sweet, chewy candy often shaped like a bear.",
+        "answer": "GUMMY BEAR",
+        "scrambled": "BEARYGUMM"
+      }
+    ]
+  },
+  {
+    "level": 28,
+    "questions": [
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed with ice.",
+        "answer": "SODA",
+        "scrambled": "ADOS"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed on special occasions.",
+        "answer": "CHAMPAGNE",
+        "scrambled": "PAGHMCANE"
+      },
+      {
+        "clue": "I am a sweet, creamy spread often used on toast.",
+        "answer": "HONEY",
+        "scrambled": "EYHNO"
+      },
+      {
+        "clue": "I am a sweet, fizzy candy that pops in your mouth.",
+        "answer": "POP ROCKS",
+        "scrambled": "ROCKSPOP"
+      }
+    ]
+  },
+  {
+    "level": 29,
+    "questions": [
+      {
+        "clue": "I am a sweet, chewy candy made with nuts and caramel.",
+        "answer": "RESEES PEANUT BUTTER CUPS",
+        "scrambled": "CUPSPEANUTBUTTERREESE"
+      },
+      {
+        "clue": "I am a creamy, sweet dessert often topped with caramel or chocolate.",
+        "answer": "PANNA COTTA",
+        "scrambled": "COTTPANNA"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed with ice.",
+        "answer": "SODA",
+        "scrambled": "ADOS"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed on special occasions.",
+        "answer": "CHAMPAGNE",
+        "scrambled": "PAGHMCANE"
+      }
+    ]
+  },
+  {
+    "level": 30,
+    "questions": [
+      {
+        "clue": "I am a sweet, creamy spread made from sugar and milk.",
+        "answer": "CARAMEL",
+        "scrambled": "LAMCARE"
+      },
+      {
+        "clue": "I am a sweet, fizzy beverage often enjoyed on special occasions.",
+        "answer": "CHAMPAGNE",
+        "scrambled": "PAGHMCANE"
+      },
+      {
+        "clue": "I am a sweet, creamy spread often used on toast.",
+        "answer": "HONEY",
+        "scrambled": "EYHNO"
+      },
+      {
+        "clue": "I am a sweet, fizzy candy that pops in your mouth.",
+        "answer": "POP ROCKS",
+        "scrambled": "ROCKSPOP"
+      }
+    ]
+  }
+]
